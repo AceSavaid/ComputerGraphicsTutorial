@@ -1,2 +1,6 @@
 # ComputerGraphicsTutorial
- Repository for Intermediate Computer Graphics
+ ## Tutorial 1  
+ - [ ] Create model
+- [ ] Create textures
+- [ ] Create shader
+
