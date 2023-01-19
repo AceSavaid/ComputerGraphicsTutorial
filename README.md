@@ -1,6 +1,6 @@
 # ComputerGraphicsTutorial
  ## Tutorial 1  
- _This is an introduction to Intermediate Computer Graphics._
+ _This is an introduction to Intermediate Computer Graphics._   
 **This tutorial is to give a general knowledege of **
 - [X] Create model
 - [X] Create textures
