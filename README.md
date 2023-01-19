@@ -1,7 +1,7 @@
 # ComputerGraphicsTutorial
  ## Tutorial 1  
  _This is an introduction to Intermediate Computer Graphics._   
-**This tutorial is to give a general knowledege of **
+**This tutorial is to give a general knowledege of Unity and How to use Shader Graphs**
 - [X] Create model
 - [X] Create textures
 - [X] Create shader
